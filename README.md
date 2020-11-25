@@ -1,3 +1,3 @@
-# Me
+# Welcome to my GitHub 👋
 
-hi there mloermlaerjaldjlfjal;fkl;k
+I build Progressive Web Applications in React and JavaScript, lets work together!
