@@ -5,7 +5,7 @@ I build Progressive Web Applications in React, JavaScript and TypeScript, lets w
 
 <img align="right" height="250" padding="20" margin="20" src="./undraw_react_y7wq.svg"> 
 
-
+ 
 Helpful Links :link:
 - [LinkedIn](https://www.linkedin.com/in/frank-mcnulty-591785151/)
 
