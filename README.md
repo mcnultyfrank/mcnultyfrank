@@ -1,4 +1,4 @@
-# Welcome to my GitHub 👋
+<!-- # Welcome to my GitHub 👋
      
    
 I build Progressive Web Applications in React, JavaScript and TypeScript, lets work together! :new_moon_with_face:
@@ -16,7 +16,7 @@ I bring you Dada, the parenting Progressive Web App, made for dads!
 - [Dada](https://dada-da4d5.web.app/) :penguin:
 
 
- 
+  -->
 
 
 
